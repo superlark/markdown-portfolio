@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:+1: **Things I'm good at:** drawing silly star wars drawings
+:broken_heart: **Things I'm bad at:** going to bed on time
